@@ -1,1 +1,1 @@
-# Statistical-learning-final-project
+# Statistical learning final project

@@ -9,7 +9,6 @@ For this I will generate synthetic data and conduct a series of experiments. I a
 List of files:
 
 – Heart_Disease_Prediction.csv - dataset with real data
-
 - Statisctical_learning.ipynb - source code with all experiments
 
 In order to see the results of the experiments, you can just open Statisctical_learning.ipynb and look through the output and my comments in jupyter notebook. Or you can run all the experiments on your own, but note that it will take some time.
